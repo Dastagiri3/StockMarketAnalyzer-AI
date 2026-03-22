@@ -157,7 +157,7 @@ const Alerts = () => {
                         Price {a.condition} <span className="font-medium tabular-nums">${a.threshold.toFixed(2)}</span>
                       </span>
                       {triggered && (
-                        <Badge variant="default" className="text-[10px] bg-amber-500">TRIGGERED</Badge>
+                        <Badge variant="default" className="text-[10px]">TRIGGERED</Badge>
                       )}
                     </div>
                     <div className="flex items-center gap-2">
