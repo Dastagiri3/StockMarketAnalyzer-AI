@@ -1,3 +1,1 @@
-# Welcome to your Lovable project
-
-TODO: Document your project here
+Project live demo : https://market-analyser-ai.lovable.app/analysis
