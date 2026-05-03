@@ -92,12 +92,19 @@ Response
   "confidence": "78%",
   "analysis": "Strong momentum with positive trend indicators"
 }
+
 🚀 Getting Started
+
 📥 Clone Repository
+
 git clone https://github.com/Dastagiri3/StockMarketAnalyzer-AI.git
+
 cd StockMarketAnalyzer-AI
+
 🔧 Backend Setup
+
 cd backend
+
 npm install
 
 Create .env file:
