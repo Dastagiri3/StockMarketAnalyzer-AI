@@ -140,7 +140,5 @@ MIT License
 👨‍💻 Author
 
 Dastagiri
-🔗 https://github.com/Dastagiri3
-
-⭐ Support
+🔗 https://github.com/Dastagiri
 
