@@ -108,12 +108,19 @@ PORT=5000
 Run backend:
 
 npm start
+
 💻 Frontend Setup
+
 cd frontend
+
 npm install
+
 npm run dev
+
 🌐 Run App
+
 http://localhost:5173
+
 🔐 Security Note
 
 ⚠️ Never expose API keys publicly.
