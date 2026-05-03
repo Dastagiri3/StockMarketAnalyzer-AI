@@ -144,8 +144,3 @@ Dastagiri
 
 ⭐ Support
 
-If you like this project:
-
-⭐ Star the repo
-🍴 Fork it
-🧑‍💻 Contribute
